@@ -6,3 +6,7 @@
 	path = thirdparties/guizang-game-skill
 	url = https://github.com/op7418/guizang-game-skill.git
 	branch = main
+[submodule "thirdparties/novel-to-game"]
+	path = thirdparties/novel-to-game
+	url = https://github.com/zenstory-ai/novel-to-game.git
+	branch = main
