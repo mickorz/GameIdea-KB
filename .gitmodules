@@ -1,0 +1,4 @@
+[submodule "thirdparties/reference-to-game"]
+	path = thirdparties/reference-to-game
+	url = https://github.com/gokayfem/reference-to-game.git
+	branch = main
