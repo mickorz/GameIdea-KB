@@ -2,3 +2,7 @@
 	path = thirdparties/reference-to-game
 	url = https://github.com/gokayfem/reference-to-game.git
 	branch = main
+[submodule "thirdparties/guizang-game-skill"]
+	path = thirdparties/guizang-game-skill
+	url = https://github.com/op7418/guizang-game-skill.git
+	branch = main
