@@ -9,6 +9,7 @@
 | REF-001 | reference-to-game | https://github.com/gokayfem/reference-to-game | thirdparties/reference-to-game | 6a00e491f578bbfcbdba45f0c7bddf4693016e61 | MIT | 方法论参考，按需提炼进自有文档；复用代码前核对 License | 研究参考素材（图像、视频、草图等）转化为可玩游戏的工作流：风格锁定、表现选型、实机玩法构建与验收证据链 |
 | REF-002 | guizang-game-skill | https://github.com/op7418/guizang-game-skill | thirdparties/guizang-game-skill | 6001e56e1eaa60be49e5aa4ef81d08b746a1b4e2 | AGPL-3.0 | 方法论参考，按需提炼进自有文档；AGPL 强传染，未集成方案前禁止复制任何代码进自有产品 | 研究 AI 编程助手用 Skill 工作流从零产出浏览器可玩 3D 动作游戏的全流程：需求澄清、素材生成工具链（即梦 Tripo）、three.js 渲染、截图自检与单文件打包（演示作雾锁山门） |
 | REF-003 | novel-to-game | https://github.com/zenstory-ai/novel-to-game | thirdparties/novel-to-game | 9017526be7778a66bb1118db820ead17c89f3f3b | MIT | 方法论参考，按需提炼进自有文档；复用代码前核对 License | 研究把小说做成可玩游戏的 5 个 Agent 技能流水线：通读拆书、玩法与美术策划、用本机工具构建、新玩家盲玩验收 |
+| REF-004 | video-to-game | https://github.com/lovisdotio/video-to-game | thirdparties/video-to-game | d1a24fd8a47576ec4b3c36388b30deda0631def9 | MIT | 方法论参考，按需提炼进自有文档；复用代码前核对 License | 研究把游戏玩法视频转成浏览器可玩游戏的工作流：视频模型定设计稿（外观镜头核心机制）、agent 逐帧研读出规格、fal 生成图像3D模型音频资产、Three.js 单文件实现、agent 自玩录像验收 |
 
 ## Submodule 引入与登记流程
 
