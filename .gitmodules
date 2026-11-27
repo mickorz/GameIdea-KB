@@ -14,3 +14,7 @@
 	path = thirdparties/video-to-game
 	url = https://github.com/lovisdotio/video-to-game.git
 	branch = main
+[submodule "thirdparties/game-creator"]
+	path = thirdparties/game-creator
+	url = https://github.com/PlayableIntelligence/game-creator.git
+	branch = main
